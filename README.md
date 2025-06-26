@@ -1,4 +1,15 @@
 # Covey.Town
+Hosted at: https://covey-town-frontend-dshq.onrender.com/
+
+GUI and Gameplay for fishing, it is a quick time event based gameplay.
+
+![Covey.Fish Gameplay](docs/FishingScreenshot.jpg)
+
+Success screen for a player after reeling in a fish.
+![Covey.Fish Sucess](docs/FishGetScreenshot.jpg)
+
+Inventory display with interactable react elements saved on backend.
+![Covey.Fish Inventory](docs/InventoryLeaderboardScreenshot.jpg)
 
 Covey.Town provides a virtual meeting space where different groups of people can have simultaneous video calls, allowing participants to drift between different conversations, just like in real life.
 Covey.Town was built for Northeastern's [Spring 2021 software engineering course](https://neu-se.github.io/CS4530-CS5500-Spring-2021/), and is designed to be reused across semesters.
